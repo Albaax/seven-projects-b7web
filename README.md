@@ -10,6 +10,7 @@
   <li>day 3: A Weather Forecast Searcher</li>
   <li>day 4: A Tic-Tac-Toe</li>
   <li>day 5: A Canvas Drawing</li>
+  <li>day 6: A JS Quiz</li>
 </ul>
 
 <p>To access this content download the files and open '<i>index.html</i>' on your browser.</p>
